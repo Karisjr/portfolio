@@ -4,7 +4,7 @@ This is my portfolio website written with React.js
 
 ## Visit me:
 
-[https://www.kariscodes.com](www.kariscodes.com)
+[www.kariscodes.com](https://www.kariscodes.com)
 
 ## Local build
 
