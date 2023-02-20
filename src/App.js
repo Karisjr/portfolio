@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import JavaScriptProjects from './components/JavascriptProjects'
-import data from './components/data';
 import BusinessCard from './components/BusinessCard';
 import ButtonsSelection from './components/buttons';
 

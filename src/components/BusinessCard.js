@@ -5,7 +5,8 @@ export default function BusinessCard(props) {
         <div className="business-card">
             <img 
                 src="./display-pic.JPG"
-                className="display-pic"/>
+                className="display-pic"
+                alt="Coding Karis"/>
             <h3 className="display-info"
                 >
                     Karis Janine Reimers

@@ -1,4 +1,4 @@
-export default [
+const data = [
             {
                 id: 1,
                 title: "To Do List",
@@ -18,3 +18,5 @@ export default [
                 framework: "Frame work: JavaScript"
             }
 ]
+
+export default data;
