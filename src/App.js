@@ -2,7 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import JavaScriptProjects from './components/JavascriptProjects'
 import BusinessCard from './components/BusinessCard';
-import ButtonsSelection from './components/buttons';
+// import ButtonsSelection from './components/buttons';
 
 function App() {
   return (
