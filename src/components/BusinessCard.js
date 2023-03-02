@@ -11,6 +11,7 @@ export default function BusinessCard(props) {
                 >
                     Karis Janine Reimers
             </h3>
+            <p className="display-contact-info">✉️ karisjreimers@outlook.com</p>
             <p className="display-info">Junior Frontend Developer</p>
                 <p className="display-info">
                     Hey, I'm Karis! I'm a junior front end developer currently based in London.

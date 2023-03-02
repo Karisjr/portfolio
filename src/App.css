@@ -102,6 +102,11 @@ button:hover {
   background-color: #424956;
 }
 
+.display-contact-info {
+  background-color: #424956;
+  font-size: smaller;
+}
+
 .button--selection {
   margin-top: 300px;
   margin-left: 50px;
