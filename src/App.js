@@ -10,7 +10,7 @@ function App() {
       <Navbar />
         <div className='container'>
           <BusinessCard />
-          <ButtonsSelection />
+          {/* <ButtonsSelection /> */}
           <JavaScriptProjects />
         </div>
     </span>
