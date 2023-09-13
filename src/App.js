@@ -10,7 +10,7 @@ function App() {
       <Navbar />
         <div className='container'>
           <BusinessCard />
-          {/* <ButtonsSelection /> */}
+          {/* <ButtonsSelection />  THIS NEEDS TO BE MY CV AS A POP OUT*/}
           <JavaScriptProjects />
         </div>
     </span>
